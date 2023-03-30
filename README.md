@@ -1,4 +1,4 @@
-# IMC Prosperity Visualizer
+# IMC Prosperity Visualizer (forked from JMerle)
 
 [![Build Status](https://github.com/jmerle/imc-prosperity-visualizer/workflows/Build/badge.svg)](https://github.com/jmerle/imc-prosperity-visualizer/actions/workflows/build.yml)
 
